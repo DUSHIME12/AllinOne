@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "403265973921",
+    "firebase_url": "https://sundeiapp.firebaseio.com",
+    "project_id": "sundeiapp",
+    "storage_bucket": "sundeiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403265973921:android:4a68cc23a7ef63c5",
+        "android_client_info": {
+          "package_name": "com.example.sundeiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403265973921-knp34vmrm7qv4tggtq00tdn542qvrj4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sundeiapp",
+            "certificate_hash": "8f3696aaf93cba17b8240114e80c7ac7c1bf30ed"
+          }
+        },
+        {
+          "client_id": "403265973921-nao40d74vafk8j2l9oa5256n7gu879ip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCumds0i_ixmwZoLEC6YhQhlaF6ti-0rD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403265973921-nao40d74vafk8j2l9oa5256n7gu879ip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
